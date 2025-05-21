@@ -57,7 +57,7 @@ Some things were never meant to be found. Or were they?
   所有资料内容为原创整理或公共教材资源。
 - The repository is updated irregularly. There may be hidden content or easter eggs.
   本仓库内容将不定时更新，也许会藏有意想不到的彩蛋。
-- 本系列的所有flag格式都是：DLMU{【内容】}
+- 本系列的所有flag格式都是：DLMU{XXXXXX}
 
 ---
 
