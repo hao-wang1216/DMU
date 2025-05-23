@@ -39,7 +39,7 @@ Some things were never meant to be found. Or were they?
 1. Download the repository and enter the entrypoint folder.
    下载仓库并进入 entrypoint 目录。
 2. Try to unzip challenge.zip — the first puzzle's password is hidden in this README.
-   尝试解压 challenge_1.zip —— 第一个谜题的密码藏在 README 本身中。
+   尝试解压 challenge_1.zip —— 第一个谜题的密码藏在 这个文档 本身中。
 3. After extraction, enter stage1 to begin the first course challenge.
    解压成功后进入 stage1，争取完成第一个学科挑战吧。
 4. Each completed stage unlocks a new folder or password.
