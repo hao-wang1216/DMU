@@ -7,6 +7,6 @@
 # 资料会不定期放到百度网盘
 通过网盘分享的文件：大连海事大学CS课程
 链接:通过网盘分享的文件：大连海事大学CS课程
-链接: https://pan.baidu.com/s/1GFGTYCxzW0P7duxLoPPyRQ 提取码: 通过邮件询问作者
+链接: https://pan.baidu.com/s/1GFGTYCxzW0P7duxLoPPyRQ 提取码: DLMH
 ## 如何参与开源？
 大家也可以将自己的相关学习经验放到自己的百度网盘，并公开链接
